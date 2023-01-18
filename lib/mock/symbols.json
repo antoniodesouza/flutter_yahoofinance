@@ -1,0 +1,502 @@
+[
+    {
+        "symbol": "MGLU3.SA",
+        "longName": "Magazine Luiza S.A.",
+        "shortName": "MAGAZ LUIZA ON      NM"
+    },
+    {
+        "symbol": "VIIA3.SA",
+        "longName": "Via S.A.",
+        "shortName": "VIA         ON      NM"
+    },
+    {
+        "symbol": "PETR4.SA",
+        "longName": "Petróleo Brasileiro S.A. - Petrobras",
+        "shortName": "PETROBRAS   PN      N2"
+    },
+    {
+        "symbol": "B3SA3.SA",
+        "longName": "B3 S.A. - Brasil, Bolsa, Balcão",
+        "shortName": "B3          ON      NM"
+    },
+    {
+        "symbol": "ABEV3.SA",
+        "longName": "Ambev S.A.",
+        "shortName": "AMBEV S/A   ON"
+    },
+    {
+        "symbol": "HAPV3.SA",
+        "longName": "Hapvida Participações e Investimentos S.A.",
+        "shortName": "HAPVIDA     ON      NM"
+    },
+    {
+        "symbol": "IRBR3.SA",
+        "longName": "IRB-Brasil Resseguros S.A.",
+        "shortName": "IRBBRASIL REON      NM"
+    },
+    {
+        "symbol": "BBDC4.SA",
+        "longName": "Banco Bradesco S.A.",
+        "shortName": "BRADESCO    PN      N1"
+    },
+    {
+        "symbol": "BRFS3.SA",
+        "longName": "BRF S.A.",
+        "shortName": "BRF SA      ON      NM"
+    },
+    {
+        "symbol": "MRVE3.SA",
+        "longName": "MRV Engenharia e Participações S.A.",
+        "shortName": "MRV         ON      NM"
+    },
+    {
+        "symbol": "VBBR3.SA",
+        "longName": "Vibra Energia S.A.",
+        "shortName": "VIBRA       ON      NM"
+    },
+    {
+        "symbol": "BBAS3.SA",
+        "longName": "Banco do Brasil S.A.",
+        "shortName": "BRASIL      ON      NM"
+    },
+    {
+        "symbol": "COGN3.SA",
+        "longName": "Cogna Educação S.A.",
+        "shortName": "COGNA ON    ON      NM"
+    },
+    {
+        "symbol": "ITUB4.SA",
+        "longName": "Itaú Unibanco Holding S.A.",
+        "shortName": "ITAUUNIBANCOPN      N1"
+    },
+    {
+        "symbol": "CIEL3.SA",
+        "longName": "Cielo S.A.",
+        "shortName": "CIELO       ON      NM"
+    },
+    {
+        "symbol": "VALE3.SA",
+        "longName": "Vale S.A.",
+        "shortName": "VALE        ON      NM"
+    },
+    {
+        "symbol": "PRIO3.SA",
+        "longName": "Petro Rio S.A.",
+        "shortName": "PETRORIO    ON      NM"
+    },
+    {
+        "symbol": "PETR3.SA",
+        "longName": "Petróleo Brasileiro S.A. - Petrobras",
+        "shortName": "PETROBRAS   ON      N2"
+    },
+    {
+        "symbol": "LREN3.SA",
+        "longName": "Lojas Renner S.A.",
+        "shortName": "LOJAS RENNERON      NM"
+    },
+    {
+        "symbol": "PETZ3.SA",
+        "longName": "Pet Center Comércio e Participações S.A.",
+        "shortName": "PETZ        ON      NM"
+    },
+    {
+        "symbol": "BPAC11.SA",
+        "longName": "Banco BTG Pactual S.A.",
+        "shortName": "BTGP BANCO  UNT EJ  N2"
+    },
+    {
+        "symbol": "GOLL4.SA",
+        "longName": "Gol Linhas Aéreas Inteligentes S.A.",
+        "shortName": "GOL         PN      N2"
+    },
+    {
+        "symbol": "ITSA4.SA",
+        "longName": "Itaúsa S.A.",
+        "shortName": "ITAUSA      PN      N1"
+    },
+    {
+        "symbol": "LWSA3.SA",
+        "longName": "Locaweb Serviços de Internet S.A.",
+        "shortName": "LOCAWEB     ON      NM"
+    },
+    {
+        "symbol": "USIM5.SA",
+        "longName": "Usinas Siderúrgicas de Minas Gerais S.A.",
+        "shortName": "USIMINAS    PNA     N1"
+    },
+    {
+        "symbol": "EMBR3.SA",
+        "longName": "Embraer S.A.",
+        "shortName": "EMBRAER     ON      NM"
+    },
+    {
+        "symbol": "RENT3.SA",
+        "longName": "Localiza Rent a Car S.A.",
+        "shortName": "LOCALIZA    ON      NM"
+    },
+    {
+        "symbol": "SUZB3.SA",
+        "longName": "Suzano S.A.",
+        "shortName": "SUZANO S.A. ON      NM"
+    },
+    {
+        "symbol": "EQTL3.SA",
+        "longName": "Equatorial Energia S.A.",
+        "shortName": "EQUATORIAL  ON      NM"
+    },
+    {
+        "symbol": "SBSP3.SA",
+        "longName": "Companhia de Saneamento Básico do Estado de São Paulo - SABESP",
+        "shortName": "SABESP      ON      NM"
+    },
+    {
+        "symbol": "CYRE3.SA",
+        "longName": "Cyrela Brazil Realty S.A. Empreendimentos e Participações",
+        "shortName": "CYRELA REALTON      NM"
+    },
+    {
+        "symbol": "CSNA3.SA",
+        "longName": "Companhia Siderúrgica Nacional",
+        "shortName": "SID NACIONALON"
+    },
+    {
+        "symbol": "MRFG3.SA",
+        "longName": "Marfrig Global Foods S.A.",
+        "shortName": "MARFRIG     ON      NM"
+    },
+    {
+        "symbol": "CPLE6.SA",
+        "longName": "Companhia Paranaense de Energia - COPEL",
+        "shortName": "COPEL       PNB     N2"
+    },
+    {
+        "symbol": "CMIG4.SA",
+        "longName": "Companhia Energética de Minas Gerais",
+        "shortName": "CEMIG       PN      N1"
+    },
+    {
+        "symbol": "CMIN3.SA",
+        "longName": "CSN Mineração S.A.",
+        "shortName": "CSNMINERACAOON      N2"
+    },
+    {
+        "symbol": "AZUL4.SA",
+        "longName": "Azul S.A.",
+        "shortName": "AZUL        PN      N2"
+    },
+    {
+        "symbol": "NTCO3.SA",
+        "longName": "Natura &Co Holding S.A.",
+        "shortName": "GRUPO NATURAON      NM"
+    },
+    {
+        "symbol": "GGBR4.SA",
+        "longName": "Gerdau S.A.",
+        "shortName": "GERDAU      PN      N1"
+    },
+    {
+        "symbol": "CRFB3.SA",
+        "longName": "Atacadão S.A.",
+        "shortName": "CARREFOUR BRON      NM"
+    },
+    {
+        "symbol": "BBDC3.SA",
+        "longName": "Banco Bradesco S.A.",
+        "shortName": "BRADESCO    ON      N1"
+    },
+    {
+        "symbol": "TOTS3.SA",
+        "longName": "TOTVS S.A.",
+        "shortName": "TOTVS       ON      NM"
+    },
+    {
+        "symbol": "SOMA3.SA",
+        "longName": "Grupo de Moda SOMA S.A.",
+        "shortName": "GRUPO SOMA  ON      NM"
+    },
+    {
+        "symbol": "ELET3.SA",
+        "longName": "Centrais Elétricas Brasileiras S.A. - Eletrobrás",
+        "shortName": "ELETROBRAS  ON      N1"
+    },
+    {
+        "symbol": "RAIL3.SA",
+        "longName": "Rumo S.A.",
+        "shortName": "RUMO S.A.   ON      NM"
+    },
+    {
+        "symbol": "ENGI11.SA",
+        "longName": "Energisa S.A.",
+        "shortName": "ENERGISA    UNT     N2"
+    },
+    {
+        "symbol": "GOAU4.SA",
+        "longName": "Metalurgica Gerdau S.A.",
+        "shortName": "GERDAU MET  PN      N1"
+    },
+    {
+        "symbol": "GMAT3.SA",
+        "longName": "Grupo Mateus S.A.",
+        "shortName": "GRUPO MATEUSON      NM"
+    },
+    {
+        "symbol": "RDOR3.SA",
+        "longName": "Rede D'Or São Luiz S.A.",
+        "shortName": "REDE D OR   ON      NM"
+    },
+    {
+        "symbol": "BEEF3.SA",
+        "longName": "Minerva S.A.",
+        "shortName": "MINERVA     ON      NM"
+    },
+    {
+        "symbol": "MOVI3.SA",
+        "longName": "Movida Participações S.A.",
+        "shortName": "MOVIDA      ON      NM"
+    },
+    {
+        "symbol": "TIMS3.SA",
+        "longName": "TIM S.A.",
+        "shortName": "TIM         ON      NM"
+    },
+    {
+        "symbol": "STBP3.SA",
+        "longName": "Santos Brasil Participações S.A.",
+        "shortName": "SANTOS BRP  ON      NM"
+    },
+    {
+        "symbol": "CCRO3.SA",
+        "longName": "CCR S.A.",
+        "shortName": "CCR SA      ON      NM"
+    },
+    {
+        "symbol": "KLBN11.SA",
+        "longName": "Klabin S.A.",
+        "shortName": "KLABIN S/A  UNT     N2"
+    },
+    {
+        "symbol": "BPAN4.SA",
+        "longName": "Banco Pan S.A.",
+        "shortName": "BANCO PAN   PN      N1"
+    },
+    {
+        "symbol": "ASAI3.SA",
+        "longName": "Sendas Distribuidora S.A.",
+        "shortName": "ASSAI       ON      NM"
+    },
+    {
+        "symbol": "SBFG3.SA",
+        "longName": "Grupo SBF S.A.",
+        "shortName": "GRUPO SBF   ON      NM"
+    },
+    {
+        "symbol": "NUBR33.SA",
+        "longName": "Nu Holdings Ltd.",
+        "shortName": "NU-NUBANK   DR3"
+    },
+    {
+        "symbol": "CSAN3.SA",
+        "longName": "Cosan S.A.",
+        "shortName": "COSAN       ON      NM"
+    },
+    {
+        "symbol": "TSLA34.SA",
+        "longName": "Tesla, Inc.",
+        "shortName": "TESLA INC   DRN"
+    },
+    {
+        "symbol": "MELI34.SA",
+        "longName": "MercadoLibre, Inc.",
+        "shortName": "MERCADOLIBREDRN"
+    },
+    {
+        "symbol": "JBSS3.SA",
+        "longName": "JBS S.A.",
+        "shortName": "JBS         ON      NM"
+    },
+    {
+        "symbol": "RRRP3.SA",
+        "longName": "3R Petroleum Óleo e Gás S.A.",
+        "shortName": "3R PETROLEUMON      NM"
+    },
+    {
+        "symbol": "WEGE3.SA",
+        "longName": "WEG S.A.",
+        "shortName": "WEG         ON      NM"
+    },
+    {
+        "symbol": "HYPE3.SA",
+        "longName": "Hypera S.A.",
+        "shortName": "HYPERA      ON      NM"
+    },
+    {
+        "symbol": "DXCO3.SA",
+        "longName": "Dexco S.A.",
+        "shortName": "DEXCO       ON      NM"
+    },
+    {
+        "symbol": "JHSF3.SA",
+        "longName": "JHSF Participações S.A.",
+        "shortName": "JHSF PART   ON      NM"
+    },
+    {
+        "symbol": "KLBN4.SA",
+        "longName": "Klabin S.A.",
+        "shortName": "KLABIN S/A  PN      N2"
+    },
+    {
+        "symbol": "GUAR3.SA",
+        "longName": "Guararapes Confecções S.A.",
+        "shortName": "GUARARAPES  ON      NM"
+    },
+    {
+        "symbol": "ECOR3.SA",
+        "longName": "EcoRodovias Infraestrutura e Logística S.A.",
+        "shortName": "ECORODOVIAS ON      NM"
+    },
+    {
+        "symbol": "CPFE3.SA",
+        "longName": "CPFL Energia S.A.",
+        "shortName": "CPFL ENERGIAON      NM"
+    },
+    {
+        "symbol": "BBSE3.SA",
+        "longName": "BB Seguridade Participações S.A.",
+        "shortName": "BBSEGURIDADEON      NM"
+    },
+    {
+        "symbol": "YDUQ3.SA",
+        "longName": "Yduqs Participações S.A.",
+        "shortName": "YDUQS PART  ON      NM"
+    },
+    {
+        "symbol": "CBAV3.SA",
+        "longName": "Companhia Brasileira de Alumínio",
+        "shortName": "CBA         ON      NM"
+    },
+    {
+        "symbol": "BABA34.SA",
+        "longName": "Alibaba Group Holding Limited",
+        "shortName": "ALIBABAGR   DRN"
+    },
+    {
+        "symbol": "AURE3.SA",
+        "longName": "Auren Energia S.A.",
+        "shortName": "AUREN       ON      NM"
+    },
+    {
+        "symbol": "BRKM5.SA",
+        "longName": "Braskem S.A.",
+        "shortName": "BRASKEM     PNA     N1"
+    },
+    {
+        "symbol": "ODPV3.SA",
+        "longName": "Odontoprev S.A.",
+        "shortName": "ODONTOPREV  ON      NM"
+    },
+    {
+        "symbol": "SIMH3.SA",
+        "longName": "SIMPAR S.A.",
+        "shortName": "SIMPAR      ON      NM"
+    },
+    {
+        "symbol": "CURY3.SA",
+        "longName": "Cury Construtora e Incorporadora S.A.",
+        "shortName": "CURY S/A    ON      NM"
+    },
+    {
+        "symbol": "ALSO3.SA",
+        "longName": "Aliansce Sonae Shopping Centers S.A.",
+        "shortName": "ALIANSCSONAEON      NM"
+    },
+    {
+        "symbol": "INBR32.SA",
+        "longName": "Inter & Co, Inc.",
+        "shortName": "INTER CO    DR2"
+    },
+    {
+        "symbol": "AESB3.SA",
+        "longName": "AES Brasil Energia S.A.",
+        "shortName": "AES BRASIL  ON      NM"
+    },
+    {
+        "symbol": "EZTC3.SA",
+        "longName": "EZTEC Empreendimentos e Participações S.A.",
+        "shortName": "EZTEC       ON      NM"
+    },
+    {
+        "symbol": "VIVT3.SA",
+        "longName": "Telefônica Brasil S.A.",
+        "shortName": "TELEF BRASILON"
+    },
+    {
+        "symbol": "MULT3.SA",
+        "longName": "Multiplan Empreendimentos Imobiliários S.A.",
+        "shortName": "MULTIPLAN   ON      N2"
+    },
+    {
+        "symbol": "ENEV3.SA",
+        "longName": "Eneva S.A.",
+        "shortName": "ENEVA       ON      NM"
+    },
+    {
+        "symbol": "VAMO3.SA",
+        "longName": "Vamos Locação de Caminhões, Máquinas e Equipamentos S.A.",
+        "shortName": "VAMOS       ON      NM"
+    },
+    {
+        "symbol": "ENBR3.SA",
+        "longName": "EDP - Energias do Brasil S.A.",
+        "shortName": "ENERGIAS BR ON      NM"
+    },
+    {
+        "symbol": "POMO4.SA",
+        "longName": "Marcopolo S.A.",
+        "shortName": "MARCOPOLO   PN      N2"
+    },
+    {
+        "symbol": "MLAS3.SA",
+        "longName": "Multilaser Industrial S.A.",
+        "shortName": "MULTILASER  ON      NM"
+    },
+    {
+        "symbol": "BRAP4.SA",
+        "longName": "Bradespar S.A.",
+        "shortName": "BRADESPAR   PN      N1"
+    },
+    {
+        "symbol": "PCAR3.SA",
+        "longName": "Companhia Brasileira de Distribuição",
+        "shortName": "P.ACUCAR-CBDON      NM"
+    },
+    {
+        "symbol": "RADL3.SA",
+        "longName": "Raia Drogasil S.A.",
+        "shortName": "RAIADROGASILON      NM"
+    },
+    {
+        "symbol": "RAPT4.SA",
+        "longName": "Randon S.A. Implementos e Participações",
+        "shortName": "RANDON PART PN      N1"
+    },
+    {
+        "symbol": "ALPA4.SA",
+        "longName": "Alpargatas S.A.",
+        "shortName": "ALPARGATAS  PN      N1"
+    },
+    {
+        "symbol": "DIRR3.SA",
+        "longName": "Direcional Engenharia S.A.",
+        "shortName": "DIRECIONAL  ON      NM"
+    },
+    {
+        "symbol": "BRSR6.SA",
+        "longName": "Banco do Estado do Rio Grande do Sul S.A.",
+        "shortName": "BANRISUL    PNB     N1"
+    },
+    {
+        "symbol": "BRPR3.SA",
+        "longName": "BR Properties S.A.",
+        "shortName": "BR PROPERT  ON      NM"
+    }
+]
