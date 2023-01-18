@@ -18,19 +18,27 @@ class Stock {
     dates = (List<int>.from(data["timestamp"] ?? []))
         .map((e) => DateTime.fromMillisecondsSinceEpoch(e * 1000))
         .toList();
-    quotesClose = List<double>.from(indicators["close"] ?? []);
+
+    List<double?> indicatorClose =
+        List<double?>.from((indicators["close"] ?? []));
+    quotesClose = indicatorClose.map((e) => e ?? 0.0).toList();
   }
 
   static Future<Stock?> get(String ticker) async {
     debugPrint("ticker: $ticker");
 
-    final url = Uri.https(
-      'query2.finance.yahoo.com',
-      '/v8/finance/chart/$ticker',
-      {'q': '{http}'},
-    );
+    var endDate = DateTime.now().millisecondsSinceEpoch ~/ 1000;
+    var startDate = DateTime.now()
+            .subtract(const Duration(days: 30))
+            .millisecondsSinceEpoch ~/
+        1000;
+
+    final url = Uri.parse(
+        'https://query2.finance.yahoo.com/v8/finance/chart/$ticker?period1=$startDate&period2=$endDate&interval=1d&events=history');
 
     final response = await http.get(url);
+
+    debugPrint("response: ${response.statusCode}, url: $url");
 
     if (response.statusCode == 200) {
       final jsonResponse = convert.jsonDecode(response.body);
