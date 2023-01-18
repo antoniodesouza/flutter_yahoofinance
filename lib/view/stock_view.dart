@@ -43,7 +43,7 @@ class _StockViewState extends State<StockView> {
           if (!snapshot.hasData) {
             return Center(
                 child: Text(
-              "Dados nao carregados para o item escolhido.\n${widget.symbol?.symbol ?? ""}",
+              "Não foi possível carregas as informações solicitadas.\n${widget.symbol?.symbol ?? ""}",
               style: const TextStyle(color: Colors.white),
             ));
           }

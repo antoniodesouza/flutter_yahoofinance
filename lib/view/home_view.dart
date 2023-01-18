@@ -46,12 +46,20 @@ class _HomeViewState extends State<HomeView> {
   }
 
   void loadSymbols() {
-    Symbol.getMock().then((value) => {autoCompleteData = value});
+    Symbol.getMock().then((value) => {
+          autoCompleteData = value,
+          if (selectedSymbol == null)
+            Future.delayed(const Duration(microseconds: 200), () {
+              setState(() {
+                selectedSymbol = autoCompleteData.firstWhere(
+                    (element) => element.symbol!.startsWith("PETR4"));
+              });
+            })
+        });
   }
 
   @override
   Widget build(BuildContext context) {
-    debugPrint("build: ${selectedSymbol?.symbol ?? ""}");
     return Scaffold(
         key: key,
         appBar: buildBar(context),
@@ -62,13 +70,12 @@ class _HomeViewState extends State<HomeView> {
             child: Stack(
               children: <Widget>[
                 if (selectedSymbol == null)
-                  Center(
-                      child: Text(
-                    "Symbol: ${selectedSymbol?.symbol ?? "vazio"}",
-                    style: const TextStyle(color: Colors.white),
-                  ))
+                  const Center(child: CircularProgressIndicator())
                 else
-                  StockView(symbol: selectedSymbol),
+                  StockView(
+                      symbol: selectedSymbol ??
+                          autoCompleteData.firstWhere(
+                              (e) => e.symbol!.startsWith("PETR4"))),
                 displayAutoComplete(),
               ],
             )));
@@ -110,9 +117,6 @@ class _HomeViewState extends State<HomeView> {
     return Container(
       decoration: const BoxDecoration(
         color: Colors.black,
-        borderRadius: BorderRadius.all(
-          Radius.circular(18),
-        ),
       ),
       child: ListView.builder(
         itemCount: results.length,
